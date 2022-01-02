@@ -12,4 +12,11 @@ Phase01 学习算法
   - 反转链表
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/reverseList.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7048238537036496910)
+- 2022-1-2
+  - 快乐数
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/isHappy.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7048633212607660045)
+  - 反转链表II
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/reverseListII.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7048641160935407653)
 
