@@ -1,15 +1,17 @@
-var swapPairs = function(head) {
+var rotateRight = function(head, k) {
   if (!head) return null
-  let nodeFlag = new ListNode(-1, head)
-  let temp = nodeFlag
-  // let pre = null
-  while(temp.next && temp.next.next) {
-      let pre = temp.next // 1
-      let cur = temp.next.next // 2
-      pre.next = cur.next
-      cur.next = pre
-      temp.next = cur
-      temp = pre
+  let cur = head
+  let size = 1
+  while(cur.next) {
+      cur = cur.next
+      size += 1
   }
-  return nodeFlag.next
+  cur.next = head
+    // 
+  for (let i = 0; i < size - k % size - 1; i++) {
+      head = head.next
+  }
+  cur = head.next
+  head.next = null
+  return cur
 };
