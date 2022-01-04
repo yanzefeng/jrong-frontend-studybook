@@ -10,7 +10,7 @@ Phase01 学习算法
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/detectCycle.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7048213335703027720)
   - 反转链表
-    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/reverseList.js)
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/206.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7048238537036496910)
 - 2022-1-2
   - 快乐数
