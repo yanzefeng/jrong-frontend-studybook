@@ -30,3 +30,10 @@ Phase01 学习算法
   - 两两交换链表中的节点
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/24.%20%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7049381634545549325)
+- 2022-1-5
+  - K 个一组翻转链表
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/25.%20K%20%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7049630343564886024)
+  - 分隔链表
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/86.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7049739503875031076)
