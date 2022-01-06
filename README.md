@@ -37,3 +37,10 @@ Phase01 学习算法
   - 分隔链表
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/86.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7049739503875031076)
+- 2022-1-6
+  - 复制带随机指针的链表
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/138.%20%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7050075380493451277)
+  - 设计循环队列
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/622.%20%E8%AE%BE%E8%AE%A1%E5%BE%AA%E7%8E%AF%E9%98%9F%E5%88%97.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7050131642072956959/)
