@@ -5,9 +5,9 @@ function getNext(n) {
 function isHappy(n) {
   let slow = n
   let fast = getNext(n)
-  if (slow !== 1 && slow !== fast) {
-    slow = getNext(n)
-    fast = getNext(getNext(n))
+  while (slow !== 1 && slow !== fast) {
+    slow = getNext(slow) // 注意不要写成n了
+    fast = getNext(getNext(fast)) // 注意不要写成n了
   }
   return slow === 1
 }
@@ -18,10 +18,9 @@ function isHappy2(n) {
   let set = new Set()
   set.add(res)
   while (res !== 1) {
-      res = getNext(res)
-      if (set.has(res)) return false
-
-      set.add(res)
+    res = getNext(res)
+    if (set.has(res)) return false
+    set.add(res)
   }
   return res === 1
 };
