@@ -48,3 +48,10 @@ Phase01 学习算法
   - 设计循环双端队列
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/641.%20%E8%AE%BE%E8%AE%A1%E5%BE%AA%E7%8E%AF%E5%8F%8C%E7%AB%AF%E9%98%9F%E5%88%97.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7050512913357864996/)
+- 2022-1-8
+  - 最近的请求次数
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/933.%E6%9C%80%E8%BF%91%E7%9A%84%E8%AF%B7%E6%B1%82%E6%AC%A1%E6%95%B0.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7050840775344537613)
+  - 设计前中后队列
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/1670.%E8%AE%BE%E8%AE%A1%E5%89%8D%E4%B8%AD%E5%90%8E%E9%98%9F%E5%88%97.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7050777008539697182)
