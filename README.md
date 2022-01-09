@@ -55,3 +55,13 @@ Phase01 学习算法
   - 设计前中后队列
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/1670.%E8%AE%BE%E8%AE%A1%E5%89%8D%E4%B8%AD%E5%90%8E%E9%98%9F%E5%88%97.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7050777008539697182)
+- 2022-1-9
+  - 亲密字符串
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/859.%E4%BA%B2%E5%AF%86%E5%AD%97%E7%AC%A6%E4%B8%B2.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7051165565221601317)
+  - 柠檬水找零
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/860.%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7051158799188656164)
+  - 第k个数
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E7%AC%ACk%E4%B8%AA%E6%95%B0.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7051172586843013128)
