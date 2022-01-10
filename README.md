@@ -65,3 +65,10 @@ Phase01 学习算法
   - 第k个数
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E7%AC%ACk%E4%B8%AA%E6%95%B0.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7051172586843013128)
+- 2022-1-10
+  - 煎饼排序
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/969.%E7%85%8E%E9%A5%BC%E6%8E%92%E5%BA%8F.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7050840775344537613)
+  - 化栈为队
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/03.04.%E5%8C%96%E6%A0%88%E4%B8%BA%E9%98%9F.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7051617892265099277/)
