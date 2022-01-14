@@ -83,3 +83,7 @@ Phase01 学习算法
   - 比较含退格的字符串
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/844.%E6%AF%94%E8%BE%83%E5%90%AB%E9%80%80%E6%A0%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7052358891878744095/)
+- 2022-1-13
+  - 20.有效的括号
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/20.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7052984994477637662/)
