@@ -91,3 +91,10 @@ Phase01 学习算法
   - 移除无效的括号
   - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/1249.%E7%A7%BB%E9%99%A4%E6%97%A0%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7053085675532320776/)
+- 2022-1-15
+  - 验证栈序列
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/946.%E9%AA%8C%E8%AF%81%E6%A0%88%E5%BA%8F%E5%88%97.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7053722594133934087/)
+  - 删除最外层的括号
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/1021.%E5%88%A0%E9%99%A4%E6%9C%80%E5%A4%96%E5%B1%82%E7%9A%84%E6%8B%AC%E5%8F%B7.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7053718058791075876/)
