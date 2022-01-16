@@ -98,3 +98,13 @@ Phase01 学习算法
   - 删除最外层的括号
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/1021.%E5%88%A0%E9%99%A4%E6%9C%80%E5%A4%96%E5%B1%82%E7%9A%84%E6%8B%AC%E5%8F%B7.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7053718058791075876/)
+- 2022-1-16
+  - 二叉树的前序遍历
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/144.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7053823192594710558/)
+  - 翻转二叉树
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/226.%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7053811355102478373/)
+  - N叉树的前序遍历
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/589.N%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7053822481697603621/)
