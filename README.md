@@ -118,3 +118,13 @@ Phase01 学习算法
   - 103. 二叉树的锯齿形层序遍历
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/103.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%94%AF%E9%BD%BF%E5%BD%A2%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7054210325654011912/)
+- 2022-1-18
+  - 331. 验证二叉树的前序序列化
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/331.%20%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E5%BA%8F%E5%88%97%E5%8C%96.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7054501541251645454/)
+  - 110. 平衡二叉树
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/110.%20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7054578127548186655/)
+  - 112. 路径总和
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/112.%20%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7054582436335714312/)
