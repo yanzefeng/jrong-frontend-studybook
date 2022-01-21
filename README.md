@@ -138,3 +138,10 @@ Phase01 学习算法
   - 222. 完全二叉树的节点个数
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/222.%20%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%8A%82%E7%82%B9%E4%B8%AA%E6%95%B0.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7055097130997776398/)
+- 2022-1-20
+  - 227. 基本计算器 II
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/227.%20%E5%9F%BA%E6%9C%AC%E8%AE%A1%E7%AE%97%E5%99%A8%20II.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7055546801025204238/)
+  - 剑指 Offer 54. 二叉搜索树的第k大节点
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E5%89%91%E6%8C%87%20Offer%2054.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E5%A4%A7%E8%8A%82%E7%82%B9.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7055574160038166541/)
