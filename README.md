@@ -145,3 +145,10 @@ Phase01 学习算法
   - 剑指 Offer 54. 二叉搜索树的第k大节点
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E5%89%91%E6%8C%87%20Offer%2054.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E5%A4%A7%E8%8A%82%E7%82%B9.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7055574160038166541/)
+- 2022-1-21
+  - 剑指 Offer 35. 复杂链表的复制
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E5%89%91%E6%8C%87%20Offer%2035.%20%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7055666310037897229/)
+  - 636. 函数的独占时间
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/636.%20%E5%87%BD%E6%95%B0%E7%9A%84%E7%8B%AC%E5%8D%A0%E6%97%B6%E9%97%B4.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7055844281851838471/)
