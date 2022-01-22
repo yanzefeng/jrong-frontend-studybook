@@ -152,3 +152,16 @@ Phase01 学习算法
   - 636. 函数的独占时间
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/636.%20%E5%87%BD%E6%95%B0%E7%9A%84%E7%8B%AC%E5%8D%A0%E6%97%B6%E9%97%B4.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7055844281851838471/)
+- 2022-1-22
+  - 剑指 Offer 22. 链表中倒数第k个节点
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E5%89%91%E6%8C%87%20Offer%2022.%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.js)
+    - 掘金 [🔗 地址](https://juejin.cn/book/6844733795329900551/section/6876001660431400967)
+  - 面试题 02.03. 删除中间节点
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.03.%20%E5%88%A0%E9%99%A4%E4%B8%AD%E9%97%B4%E8%8A%82%E7%82%B9.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7055871361755512863/)
+  - 445. 两数相加 II
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/445.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0%20II.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7055945831525908493/)
+  - 143. 重排链表
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/143.%20%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7056052411105804325/)
