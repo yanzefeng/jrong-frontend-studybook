@@ -165,3 +165,7 @@ Phase01 学习算法
   - 143. 重排链表
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/143.%20%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7056052411105804325/)
+- 2022-1-23
+  - 1124. 表现良好的最长时间段
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/1124.%20%E8%A1%A8%E7%8E%B0%E8%89%AF%E5%A5%BD%E7%9A%84%E6%9C%80%E9%95%BF%E6%97%B6%E9%97%B4%E6%AE%B5.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7056243879892221983/)
