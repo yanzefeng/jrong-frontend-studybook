@@ -179,3 +179,10 @@ Phase01 学习算法
   - 面试题 02.08. 环路检测
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.08.%20%E7%8E%AF%E8%B7%AF%E6%A3%80%E6%B5%8B.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7056961006978727943/)
+- 2022-1-25
+  - 725. 分隔链表
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/725.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7057162974737694734/)
+  - 707. 设计链表
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/707.%20%E8%AE%BE%E8%AE%A1%E9%93%BE%E8%A1%A8.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7057167410125602824/)
