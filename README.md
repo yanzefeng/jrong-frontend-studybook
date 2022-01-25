@@ -169,3 +169,13 @@ Phase01 学习算法
   - 1124. 表现良好的最长时间段
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/1124.%20%E8%A1%A8%E7%8E%B0%E8%89%AF%E5%A5%BD%E7%9A%84%E6%9C%80%E9%95%BF%E6%97%B6%E9%97%B4%E6%AE%B5.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7056243879892221983/)
+- 2022-1-24
+  - 面试题 02.04. 分割链表
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.04.%20%E5%88%86%E5%89%B2%E9%93%BE%E8%A1%A8.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7056957527816142879/)
+  - 剑指 Offer 18. 删除链表的节点
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E5%89%91%E6%8C%87%20Offer%2018.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E8%8A%82%E7%82%B9.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7056959051716820999/)
+  - 面试题 02.08. 环路检测
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E9%9D%A2%E8%AF%95%E9%A2%98%2002.08.%20%E7%8E%AF%E8%B7%AF%E6%A3%80%E6%B5%8B.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7056961006978727943/)

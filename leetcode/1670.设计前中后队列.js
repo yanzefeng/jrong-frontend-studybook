@@ -133,9 +133,6 @@ class FrontMiddleBackQueue {
       this.q2.insertFront(this.q.deleteLast())
     }
     this.q.insertLast(value)
-    // this.q2.insertLast(value)
-    // this.pushBack(value)
-    // this.pushFront(value)
   }
 
   pushBack(value) {
