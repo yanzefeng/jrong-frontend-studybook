@@ -186,3 +186,10 @@ Phase01 学习算法
   - 707. 设计链表
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/707.%20%E8%AE%BE%E8%AE%A1%E9%93%BE%E8%A1%A8.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7057167410125602824/)
+- 2022-1-26
+  - 剑指 Offer 10- I. 斐波那契数列
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E5%89%91%E6%8C%87%20Offer%2010-%20I.%20%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7057466757581111332/)
+  - 779. 第K个语法符号
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/779.%20%E7%AC%ACK%E4%B8%AA%E8%AF%AD%E6%B3%95%E7%AC%A6%E5%8F%B7.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7057465692978675749/)
