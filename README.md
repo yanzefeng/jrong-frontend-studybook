@@ -197,7 +197,7 @@ Phase01 学习算法
    - 剑指 Offer 26. 树的子结构
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E5%89%91%E6%8C%87%20Offer%2026.%20%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7058274720830980103)
-- 2022-2-13
+- 2022-2-12
    - 剑指 Offer 40. 最小的k个数
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E5%89%91%E6%8C%87%20Offer%2040.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7063859366738264101/)

@@ -1,43 +1,50 @@
 class Heap {
   constructor() {
     this.data = []
-    this.cnt = 0
   }
+  // 向下调
   shiftDown(ind = 0) {
-    let n = this.cnt - 1
+    let n = this.size() - 1
     while (ind * 2 + 1 <= n) {
       let tmp = ind
-      if (this.data[tmp] < this.data[ind * 2 + 1]) tmp = ind * 2 + 1
-      if (ind * 2 + 2 <= n && this.data[tmp] < this.data[ind * 2 + 2])
-      tmp = ind * 2 + 2
+      // 小顶堆是用大于号 this.data[tmp] > this.data[ind * 2 + 1]， 大顶堆小于号 this.data[tmp] < this.data[ind * 2 + 1]
+      if (this.data[tmp] > this.data[ind * 2 + 1]) tmp = ind * 2 + 1
+      if (ind * 2 + 2 <= n && this.data[tmp] > this.data[ind * 2 + 2])
+        tmp = ind * 2 + 2
       if (tmp === ind) break
       this.data[tmp] = [this.data[ind], (this.data[ind] = this.data[tmp])][0]
       ind = tmp
     }
   }
+  // 向上调整
   shiftUp(idx) {
     let pIdx = null
-    while ((pIdx = Math.floor((idx - 1) / 2)), idx && this.data[pIdx] < this.data[idx]) {
+    while (
+      ((pIdx = Math.floor((idx - 1) / 2)),
+      // 小顶堆是用大于号 this.data[pIdx] > this.data[idx], 大顶堆用小于号this.data[pIdx] < this.data[idx]
+      idx && this.data[pIdx] > this.data[idx])
+    ) {
       this.data[pIdx] = [this.data[idx], (this.data[idx] = this.data[pIdx])][0]
       idx = pIdx
-      // pIdx = Math.floor((idx - 1) / 2)
     }
   }
   push(val) {
-    this.data[this.cnt++] = val
-    this.shiftUp(this.cnt - 1)
+    this.data.push(val)
+    this.shiftUp(this.size() - 1)
   }
   pop() {
     if (this.size() === 0) return
-    this.data[0] = this.data[this.cnt - 1]
-    this.cnt -= 1
+    if (this.size() === 1) {
+      return this.data.pop()
+    }
+    this.data[0] = this.data.pop()
     this.shiftDown(0)
   }
   top() {
     return this.data[0]
   }
   size() {
-    return this.cnt
+    return this.data.length
   }
 }
 
@@ -62,7 +69,7 @@ rl.on('line', (str) => {
   } else {
     heap.pop()
   }
-  let arr = heap.data.slice(0, heap.cnt)
+  let arr = heap.data
   console.log(arr)
 })
 
