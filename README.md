@@ -198,11 +198,18 @@ Phase01 学习算法
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E5%89%91%E6%8C%87%20Offer%2026.%20%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7058274720830980103)
 - 2022-2-12
-   - 剑指 Offer 40. 最小的k个数
+  - 剑指 Offer 40. 最小的k个数
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E5%89%91%E6%8C%87%20Offer%2040.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7063859366738264101/)
   - 1046. 最后一块石头的重量
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/1046.%20%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8F.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7063859369946906661/)
+- 2022-2-13
+  - 703. 数据流中的第 K 大元素
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/703.%20%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%AD%E7%9A%84%E7%AC%AC%20K%20%E5%A4%A7%E5%85%83%E7%B4%A0.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7064208733705863198/)
+  - 373. 查找和最小的 K 对数字
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/373.%20%E6%9F%A5%E6%89%BE%E5%92%8C%E6%9C%80%E5%B0%8F%E7%9A%84%20K%20%E5%AF%B9%E6%95%B0%E5%AD%97.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7064212068664082440/)
 
     
