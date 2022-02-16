@@ -54,12 +54,14 @@ class Heap {
     this.shiftUp(this.size() - 1)
   }
   pop() {
+    let res = this.top()
     if (this.size() === 0) return
     if (this.size() === 1) {
       return this.data.pop()
     }
     this.data[0] = this.data.pop()
     this.shiftDown(0)
+    return res
   }
   top() {
     return this.data[0]
@@ -67,34 +69,53 @@ class Heap {
   size() {
     return this.data.length
   }
-}
+} 
+var MedianFinder = function() {
+    this.maxH = new Heap(1)
+    this.minH = new Heap(0)
+    this.size = 0
+};
 
-const readline = require('readline')
+/** 
+ * @param {number} num
+ * @return {void}
+ */
+MedianFinder.prototype.addNum = function(num) {
+    this.size++
+    if (num < this.maxH.top() || !this.size) {
+        this.maxH.push(num)
+    } else {
+        this.minH.push(num)
+    }
+    // if (this.minH.size() > this.maxH.size()) {
+    //     this.maxH.push(this.minH.pop())
+    // }
+    // if (this.maxH.size() === this.minH.size() + 2) {
+    //     this.minH.push(this.maxH.pop())
+    // }
+    while((this.maxH.size() - this.minH.size() !== 1) && this.maxH.size() !== this.minH.size()) {
+        if (this.minH.size() > this.maxH.size()) {
+            this.maxH.push(this.minH.pop())
+        } else {
+            this.minH.push(this.maxH.pop())
+        }
+    }
+};
 
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-})
+/**
+ * @return {number}
+ */
+MedianFinder.prototype.findMedian = function() {
+let res = this.maxH.top()
+    if (this.size % 2 === 0) {
+        res = (res + this.minH.top()) / 2
+    }
+    return res
+};
 
-let heap = new Heap(0)
-// 监听键入回车事件
-rl.on('line', (str) => {
-  // str即为输入的内容
-  if (str === 'close') {
-    // 关闭逐行读取流 会触发关闭事件
-    rl.close()
-  }
-  const [opr, val] = str.split(' ')
-  if (opr === '0') {
-    heap.push(+val)
-  } else {
-    heap.pop()
-  }
-  let arr = heap.data
-  console.log(arr)
-})
-
-// 监听关闭事件
-rl.on('close', () => {
-  console.log('触发了关闭事件')
-})
+/**
+ * Your MedianFinder object will be instantiated and called as such:
+ * var obj = new MedianFinder()
+ * obj.addNum(num)
+ * var param_2 = obj.findMedian()
+ */

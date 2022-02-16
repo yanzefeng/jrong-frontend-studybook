@@ -211,5 +211,17 @@ Phase01 学习算法
   - 373. 查找和最小的 K 对数字
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/373.%20%E6%9F%A5%E6%89%BE%E5%92%8C%E6%9C%80%E5%B0%8F%E7%9A%84%20K%20%E5%AF%B9%E6%95%B0%E5%AD%97.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7064212068664082440/)
-
-    
+- 2022-2-14
+  - 215. 数组中的第K个最大元素
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/215.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7064591915194253319/)
+  - 692. 前K个高频单词
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/692.%20%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%8D%95%E8%AF%8D.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7064597396860174343/)
+- 2022-2-15
+  - 355. 设计推特
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/355.%20%E8%AE%BE%E8%AE%A1%E6%8E%A8%E7%89%B9.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7065316871070990349/)
+  - 面试题 17.20. 连续中值
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.20.%20%E8%BF%9E%E7%BB%AD%E4%B8%AD%E5%80%BC.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7065321053567844359/)
