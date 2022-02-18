@@ -225,3 +225,8 @@ Phase01 学习算法
   - 面试题 17.20. 连续中值
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E9%9D%A2%E8%AF%95%E9%A2%98%2017.20.%20%E8%BF%9E%E7%BB%AD%E4%B8%AD%E5%80%BC.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7065321053567844359/)
+- 2022-2-16
+  - 264. 丑数 II
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/264.%20%E4%B8%91%E6%95%B0%20II.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7065323837998497799/)
+    
