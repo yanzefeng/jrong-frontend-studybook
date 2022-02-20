@@ -229,4 +229,27 @@ Phase01 学习算法
   - 264. 丑数 II
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/264.%20%E4%B8%91%E6%95%B0%20II.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7065323837998497799/)
-    
+- 2022-2-20
+  - 313. 超级丑数
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/313.%20%E8%B6%85%E7%BA%A7%E4%B8%91%E6%95%B0.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7066655930296827934/)
+  - 104. 二叉树的最大深度
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/104.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7066656296761557028/)
+  - 面试题 04.05. 合法二叉搜索树
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E9%9D%A2%E8%AF%95%E9%A2%98%2004.05.%20%E5%90%88%E6%B3%95%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7066659486638800933/)
+  - 199. 二叉树的右视图
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/199.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%8F%B3%E8%A7%86%E5%9B%BE.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7066661468938174478/)
+  - 100. 相同的树
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/100.%20%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A0%91.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7066662173929390111/)
+  - 230. 二叉搜索树中第K小的元素
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/230.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%AC%ACK%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7066664488056913951/)
+  - 101. 对称二叉树
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/101.%20%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7066670001486299150/)
+
+
