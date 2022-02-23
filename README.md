@@ -253,7 +253,7 @@ Phase01 学习算法
     - 掘金 [🔗 地址](https://juejin.cn/post/7066670001486299150/)
 - 2022-2-21
   - 451. 根据字符出现频率排序
-    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/451.%20%E6%A0%B9%E6%8D%AE%E5%AD%97%E7%AC%A6%E5%87%BA%E7%8E%B0%E9%A2%91%E7%8E%87%E6%8E%92%E5%BA%8Fjs)
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/451.%20%E6%A0%B9%E6%8D%AE%E5%AD%97%E7%AC%A6%E5%87%BA%E7%8E%B0%E9%A2%91%E7%8E%87%E6%8E%92%E5%BA%8F.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7067175338228318216/)
   - 347. 前 K 个高频元素
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/347.%20%E5%89%8D%20K%20%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.js)
@@ -261,5 +261,11 @@ Phase01 学习算法
   - 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先
     - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/%E5%89%91%E6%8C%87%20Offer%2068%20-%20I.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%8.js)
     - 掘金 [🔗 地址](https://juejin.cn/post/7067180457074360334/)
-
+- 2022-2-22
+  - 1753. 移除石子的最大得分
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/1753.%20%E7%A7%BB%E9%99%A4%E7%9F%B3%E5%AD%90%E7%9A%84%E6%9C%80%E5%A4%A7%E5%BE%97%E5%88%86.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7067734729973301255/)
+  - 1801. 积压订单中的订单总数
+    - 代码 [gihub](https://github.com/yanzefeng/jrong-frontend-studybook/blob/main/leetcode/1801.%20%E7%A7%AF%E5%8E%8B%E8%AE%A2%E5%8D%95%E4%B8%AD%E7%9A%84%E8%AE%A2%E5%8D%95%E6%80%BB%E6%95%B0.js)
+    - 掘金 [🔗 地址](https://juejin.cn/post/7067793740793905160/)
 
